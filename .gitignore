@@ -7,6 +7,12 @@
 
 # dependencies
 /node_modules
+/node_modules12
+/node_modules13
+/node_modules14
+yarn.lock12
+yarn.lock13
+yarn.lock14
 
 # IDEs and editors
 /.idea
